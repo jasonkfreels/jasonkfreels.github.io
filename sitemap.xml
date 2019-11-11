@@ -168,9 +168,6 @@
   
     
     
-  
-    
-    
     <url>
       <loc>/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
@@ -218,6 +215,7 @@
     
     <url>
       <loc>/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -253,6 +251,7 @@
     
     <url>
       <loc>/tags/</loc>
+      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
